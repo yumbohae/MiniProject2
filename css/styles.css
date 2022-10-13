@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 0)
+}
+
+h1{
+    background-color: rgb(227, 15, 15)
+
+}
+
+#bigchowchow.png{
+    width: 1006;
+}
+
+/* 
+reference an image put # before it and then curly brackets
+
+*/ 
+
+#imageGallery{
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+
+}
+
+#chowchow.gif{
+    width: 1000px
+}
